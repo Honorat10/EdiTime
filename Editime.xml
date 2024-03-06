@@ -1,0 +1,100 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Editime
+</name>
+</assembly>
+<members>
+<member name="P:Editime.My.Resources.Resources.ResourceManager">
+	<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member><member name="P:Editime.My.Resources.Resources.Culture">
+	<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member><member name="P:Editime.My.Resources.Resources._1496968559_jd25_84667_removebg_preview">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Editime.My.Resources.Resources._42362418_icone_de_l_imprimante_dessine_a_la_main_a_la_craie_sur_une_icone_blanche_de_vecteur_tableau_noir_sur_removebg_preview">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Editime.My.Resources.Resources._45324469_liste_de_courses_dessine_a_la_main_a_la_craie_sur_un_tableau_noir_vecteur_icone_blanche_isole_sur_un_1_">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Editime.My.Resources.Resources._45324469_liste_de_courses_dessine_a_la_main_a_la_craie_sur_un_tableau_noir_vecteur_icone_blanche_isole_sur_un_removebg_preview_1_">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Editime.My.Resources.Resources._81_36339_b2e1bf8e_34fb_434d_ab81_9ef386d931b0_2_removebg_preview">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Editime.My.Resources.Resources._81_36339_b2e1bf8e_34fb_434d_ab81_9ef386d931b0_removebg_preview__1_">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Editime.My.Resources.Resources._90580918_tableau_noir_vecteur_doodle_ensemble_d_enfants_qui_etudient_et_jouent_images_creatives_pour_le_removebg_preview">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Editime.My.Resources.Resources.administrator_xxl_1_">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Editime.My.Resources.Resources.close">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Editime.My.Resources.Resources.css_hamburger_menu_icon_1_1_">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Editime.My.Resources.Resources.filiere">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Editime.My.Resources.Resources.HECM_benin">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Editime.My.Resources.Resources.icone">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Editime.My.Resources.Resources.icone_de_livre_ouvert_dessin_a_la_craie_removebg_preview">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Editime.My.Resources.Resources.login_img">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Editime.My.Resources.Resources.logout">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Editime.My.Resources.Resources.professeur">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Editime.My.Resources.Resources.universite_campus_batiment_salle_d_enseignement_pour_etudiants_dessin_anime_vectoriel_illustration_cours_de_soeurs_155883208_1_">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Editime.My.Resources.Resources.whatsapp_png_branco_png_whatsapp_logo_circle_11562867187ecqtjz9oza">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Editime.My.Resources.Resources">
+	<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+</members>
+</doc>
